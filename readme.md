@@ -23,12 +23,19 @@ After installing react-native-paper, the terminal will show a qr code for you em
     - Select a system image and choose R (download it first!). Next.
     - Run you Device Manager by clicking the play icon
 
-//React Native Basics
-
 To continue, go the App.js file then remove the StatusBar and StyleSheet.
 
 Create a new file named Main.jsx, then type rnfe to start (install the react extension first!).
 
-?First Commit - 
+Press a to the terminal to connect the emulator for android.
+
+//Navigation Setup
+
+Create folders under frontend named "components", "screens", "styles"
+
+Create a Home.jsc file under screens folder.
+
+//Styling
+
 
 
