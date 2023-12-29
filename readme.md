@@ -37,5 +37,6 @@ Create a Home.jsc file under screens folder.
 
 //Styling
 
+Create styles.js file
 
 
