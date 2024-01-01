@@ -16,6 +16,7 @@ const Header = ({back, emptyCart=false}) => {
 
   return (
     <>
+    
       {
         back && (
           <TouchableOpacity 
